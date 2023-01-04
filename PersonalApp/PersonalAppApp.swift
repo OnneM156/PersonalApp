@@ -2,7 +2,7 @@
 //  PersonalAppApp.swift
 //  PersonalApp
 //
-//  Created by Paul Wagner on 04.01.23.
+//  Created by Enno Müller on 04.01.23.
 //
 
 import SwiftUI
